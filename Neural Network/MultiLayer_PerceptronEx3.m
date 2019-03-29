@@ -1,5 +1,5 @@
 %% Part III - Classification of a 4-class problem 
-%%%           with a multi-layer perceptron
+%%% with a multi-layer perceptron
 
 close all, clear all,  clc
 
